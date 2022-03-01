@@ -32,7 +32,7 @@ gem 'bcrypt', '~> 3.1.7'
 gem 'bootstrap', '~> 4.3.1'
 
 # Use Active Storage variant
-gem 'image_processing', '~> 1.11.0'
+gem 'image_processing', '~> 1.12.2'
 gem 'mini_magick', '>= 4.3.5'
 
 gem 'aws-sdk-s3', require: false
